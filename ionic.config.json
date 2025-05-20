@@ -1,0 +1,7 @@
+{
+  "name": "masterbible",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
